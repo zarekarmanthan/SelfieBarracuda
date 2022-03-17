@@ -9,7 +9,7 @@ public sealed class Compositor : MonoBehaviour
 
     [SerializeField] ImageSource _source = null;
     [SerializeField] OutputMode _outputMode = OutputMode.StaticBG;
-    [SerializeField] Texture2D _bgImage = null;
+    public Texture _bgImage = null;
     [SerializeField] UI.RawImage _outputUI = null;
     [SerializeField] ResourceSet _resources = null;
 
