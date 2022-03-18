@@ -392,7 +392,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _source: {fileID: 875395803}
   _outputMode: 2
-  _bgImage: {fileID: 0}
+  _bgImage: {fileID: 2800000, guid: fdf49ba0198052e478872fed2bdd4573, type: 3}
   _outputUI: {fileID: 1464381167}
   _resources: {fileID: 11400000, guid: 93dd958d1994ff144a3cc5a5e345c854, type: 2}
   _shader: {fileID: 4800000, guid: 617a312834c35b448b7fcd82bd5f00b2, type: 3}
@@ -605,14 +605,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.24473841, g: 0.5566038, b: 0.20216268, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 0}
+  m_Texture: {fileID: 2800000, guid: fdf49ba0198052e478872fed2bdd4573, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
